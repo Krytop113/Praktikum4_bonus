@@ -1,0 +1,145 @@
+body {
+    background-color: #323437;
+    color: #e2b714;
+    font-family: monospace;
+    font-size:medium;
+}
+
+img {
+    background-color: #e2b714;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border-radius: 25%;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+}
+
+.cross1{
+    height: 120px;
+    width: 25px;
+    background-color: #e2b714;
+    position: absolute;
+}
+
+.cross2{
+    height: 25px;
+    width: 120px;
+    background-color: #e2b714;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    border-color: #e2b714;
+    height: 2px;
+    background-color: #e2b714;
+}
+
+.p1 {
+    text-align: right;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.p3 {
+    text-align: center;
+    text-decoration: overline 1px;
+    font-style: oblique;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline white;
+}
+
+table {
+    margin: auto;
+}
+
+textarea {
+    width: 300px;
+}
+
+.input {
+    width: 50px;
+}
+
+.border_keyboard {
+    border: 3px solid #e2b714;
+}
+
+.zonk {
+    border: 0;
+    text-align: left;
+    width: 125px;
+}
+
+td {
+    border: 2px solid #e2b714;
+    margin: 3px;
+    text-align: center;
+    width: 60px;
+    padding: 5px;
+}
+
+tr {
+    height: 30px;
+}
+
+.keyboard1 {
+    border: 2px solid aqua;
+    color: aqua;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.keyboard2 {
+    border: 2px solid aqua;
+    color: aqua;
+    text-align: left;
+}
+
+.keyboard3 {
+    border: 2px solid aqua;
+    color: aqua;
+    text-align: right;
+}
+
+.keyboard4 {
+    border: 2px solid aqua;
+    color: aqua;
+}
+
+.foot {
+    color: aqua;
+    text-decoration: none;
+    font-weight: none;
+}
+
+footer {
+    text-align: center;
+}
